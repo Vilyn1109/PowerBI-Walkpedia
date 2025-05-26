@@ -1,5 +1,17 @@
 # Changelog for Power BI Walkpedia
 
+## [0.1.2] - 2025-05-25
+
+### Added
+
+- Between Areas location to LocationGet script so that traveling did not have a blank location.
+- Images and skill columns to matrix.
+
+### Fixed
+
+- Fixed location names that had (Capital...) in their name in dim_Locations.
+- Removed Locaitons that were listed in multiple regions (proper region was being listed in parantheses in the location name in these cases.)
+
 ## [0.1.1] - 2025-05-17
 
 ### Added

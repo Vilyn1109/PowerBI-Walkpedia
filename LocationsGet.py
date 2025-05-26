@@ -129,3 +129,6 @@ for index, row in df_links.iterrows():
 # Create final dataframe
 df_locations = pd.DataFrame(all_locations)
 df_locations = df_locations.drop_duplicates(subset=['location'], keep='first')
+
+df_append = pd.DataFrame([['Between Areas', 'Between Areas']], columns=['region', 'location'])
+df_locations = pd.concat([df_locations, df_append], ignore_index=True)
