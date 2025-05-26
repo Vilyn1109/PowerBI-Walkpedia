@@ -1,5 +1,12 @@
 # Changelog for Power BI Walkpedia
 
+## [0.1.3] - 2025-05-25
+
+### Added
+
+- Buttons and bookmarks to view by location (matrix) or as a table.
+- Skill image measures.
+
 ## [0.1.2] - 2025-05-25
 
 ### Added
