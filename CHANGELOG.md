@@ -1,5 +1,18 @@
 # Changelog for Power BI Walkpedia
 
+## [1.0.0] - 2025-05-29
+
+### Added
+
+- View by Drops.
+- Activity drop info.
+- Drops slicer.
+- Measure and table descriptions.
+
+### Changed
+
+- Condensed and cleaned fact tables.
+
 ## [0.1.3] - 2025-05-25
 
 ### Added
