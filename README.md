@@ -6,7 +6,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMjdmODJkNjctODUwYi00YzFhLTlmNTEtMTc4M2UwZ
 
 ## Goal
 
-- This is a practice project aiming to understand the use of the Power BI web connector and the use of python to retrieve images from a wiki page.
+- This is a practice project aiming to understand the use of the Power BI web and python connectors and the use of python to retrieve images and other information from a wiki page.
 
 ## Note
 
