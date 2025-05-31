@@ -1,5 +1,11 @@
 # Changelog for Power BI Walkpedia
 
+## [1.0.1] - 2025-05-31
+
+### Changed
+
+- W.E.A.R. and base steps on tables displays average of collapsed category, hidden if blank.
+
 ## [1.0.0] - 2025-05-29
 
 ### Added
